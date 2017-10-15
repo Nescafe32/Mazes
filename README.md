@@ -1,5 +1,6 @@
 # Mazes
 <br>Some fun study project
+<br>
 <br><b>Idea: generate and solve the maze</b>
 <br>I have to use Stack
 <br>
