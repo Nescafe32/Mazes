@@ -1,8 +1,9 @@
 # Mazes
 <br>Some fun study project
-<br><b>Idea: generate and solve the maze<b>
+<br><b>Idea: generate and solve the maze</b>
+<br>I have to use Stack
 <br>
-<br><b><i>How it works and looks:<i><b>
+<br><b><i>How it works and looks:</i></b>
 <br>
 <br>![m1](https://user-images.githubusercontent.com/26405989/31588082-8088c41a-b1f5-11e7-981f-ec9d51c861ef.PNG)
 <br><br>or
