@@ -19,6 +19,7 @@ public class TheMaze {
         yStart = Integer.valueOf(startCoordinates[0]);
         xStart = Integer.valueOf(startCoordinates[1]);
 
+
         System.out.println("Type coordinates of the finish point");
         finishCoordinates = scanner.nextLine().split("\\s");
         yEnd = Integer.valueOf(finishCoordinates[0]);
